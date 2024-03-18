@@ -1,7 +1,7 @@
 # mm-google-cybersecurity
 # Google Cybersecurity Professional Certificate
 
-![Certificate of completion for Google Cybersecurity Professional Certificate for Mark Mamon](https://coursera.org/share/ceff365138cd861ec20b39b20e6d9b61)
+![Certificate of completion for Google Cybersecurity Professional Certificate for Mark Mamon](https://drive.google.com/file/d/1n4lLe0L06Y9NRnQHusR-2X575UvvHKY2/view?usp=sharing)
 
 This repo holds all of the projects, notes, and write-ups I have done while completing the [Google Cybersecurity Professional Certificate](https://grow.google/certificates/cybersecurity/#?modal_active=none).
 
